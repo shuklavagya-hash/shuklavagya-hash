@@ -1,4 +1,8 @@
-<h1 align="center">Hey! This side, Vagya. </h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,100:8E7CC3&height=220&section=header&text=Vagya%20Shukla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%C3%97%20AI%20%C3%97%20Product%20Design&descAlignY=55&descSize=18" width="100%"/>
+
+<br/>
 
 <p align="center">
 Building thoughtful products with AI, beautiful UI & a little bit of caffeine ☕
@@ -7,21 +11,39 @@ Building thoughtful products with AI, beautiful UI & a little bit of caffeine �
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Builder;UI%2FUX+Enthusiast;Building+products+people+actually+enjoy+using+%F0%9F%8C%B8" alt="Typing SVG" />
 </p>
 
-## 🌸 A little about me
-- 💻 I enjoy building products that solve real problems—not just college assignments.
+</div>
 
-- 🤖 Currently exploring Full Stack Development, AI and thoughtful user experiences.
+<br/>
 
-- 🎨 I love pretty UI, tiny design details and turning ideas into beautiful products.
+## 🌸 About Me
 
+I'm **Vagya**, a full-stack developer who loves blending **AI**, **beautiful UI**, and **thoughtful experiences**. Currently exploring Full Stack Development, AI and thoughtful user experiences.
+
+- 🔭 Currently building **Whimsical** — a sentimental digital-gifting platform
+- 🧠 Exploring **AI Experiments** — AI-powered products that solve everyday problems with thoughtful UX
 - 🌱 Always learning, building & collecting new project ideas.
+- 💌 Reach me on [LinkedIn](https://linkedin.com/in/vagya-shukla-492581387)
+
+<br/>
 
 ## 🛠️ Tech Stack
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,cpp&theme=light" />
+<div align="center">
 
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</div>
+
+<br/>
 
 ## 🚀 Currently Building
 <table>
@@ -97,3 +119,18 @@ Always experimenting.
 
 </tr>
 </table>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shuklavagya-hash&show_icons=true&theme=default&bg_color=F5F0FF&title_color=8E7CC3&icon_color=8E7CC3&text_color=333333&border_color=C9A7EB&hide_border=false" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuklavagya-hash&background=F5F0FF&border=C9A7EB&stroke=C9A7EB&ring=8E7CC3&fire=8E7CC3&currStreakLabel=8E7CC3" width="48%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E7CC3,100:C9A7EB&height=100&section=footer" width="100%"/>
+
+</div>
