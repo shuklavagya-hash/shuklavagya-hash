@@ -1,19 +1,30 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,100:8E7CC3&height=220&section=header&text=Vagya%20Shukla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%C3%97%20AI%20%C3%97%20Product%20Design&descAlignY=55&descSize=18" width="100%"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6B5B95,100:4A3F6B&height=220&section=header&text=Vagya%20Shukla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%C3%97%20AI%20%C3%97%20Product%20Design&descAlignY=55&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,100:8E7CC3&height=220&section=header&text=Vagya%20Shukla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%C3%97%20AI%20%C3%97%20Product%20Design&descAlignY=55&descSize=18" width="100%">
+</picture>
 <br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=800&color=8E7CC3&center=true&vCenter=true&width=460&lines=Building+beautiful+AI+products+%E2%9C%A8;UI+Enthusiast+%F0%9F%92%9C;Always+building.+Always+experimenting." alt="Typing SVG" />
+</a>
+<br/><br/>
 
-<p align="center">
-Building thoughtful products with AI, beautiful UI & a little bit of caffeine ☕
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Builder;UI%2FUX+Enthusiast;Building+products+people+actually+enjoy+using+%F0%9F%8C%B8" alt="Typing SVG" />
-</p>
+<a href="https://linkedin.com/in/vagya-shukla-492581387" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-8E7CC3?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-C9A7EB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://whimssyyy.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4A3F6B?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=shuklavagya-hash&color=8e7ccc&style=flat-square&label=Profile+Views" />
 </div>
-
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=C9A7EB&height=3&section=header" width="100%"/>
+
 
 ## 🌸 About Me
 
@@ -129,8 +140,12 @@ Always experimenting.
 
 </div>
 
-<br/>
+🐍 Contribution Snake
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E7CC3,100:C9A7EB&height=100&section=footer" width="100%"/>
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/shuklavagya-hash/shuklavagya-hash/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E7CC3,100:C9A7EB&height=100&section=footer" width="100%"/>
+</div>
+
