@@ -111,11 +111,11 @@ Visualize dependencies and understand your codebase before making changes.
 
 <td width="50%">
 
-### 🧠 FocusFlow
+### 🧠 SnakeGame
 
-Your AI-powered second brain for organizing documents, finding insights and staying in flow.
+The nostalgic nokia Snake Game clone - in you own browser.
 
-🔗 *Repository*
+🌐 Live On: **https://snake-game-ht16gwi90-shuklavagya-1237s-projects.vercel.app**
 
 </td>
 
