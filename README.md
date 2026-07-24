@@ -91,7 +91,7 @@ Exploring AI-powered products that solve everyday problems with thoughtful UX.
 
 A digital gifting experience where flowers, memories and music come together.
 
-🌐 Live On: **whimssyyy.netlify.app**
+🌐 Live On: **https://whimssyyy.netlify.app**
 
 </td>
 
